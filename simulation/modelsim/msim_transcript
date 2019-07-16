@@ -1,0 +1,104 @@
+# Reading D:/altera/modelsim_ase/tcl/vsim/pref.tcl
+# do lab8_run_msim_rtl_systemverilog.do
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Model Technology ModelSim PE vmap 10.3d Lib Mapping Utility 2014.10 Oct  7 2014
+# vmap -modelsim_quiet work rtl_work 
+# Copying D:/altera/modelsim_ase/win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# ** Warning: Copied D:/altera/modelsim_ase/win32aloem/../modelsim.ini to modelsim.ini.
+#          Updated modelsim.ini.
+# 
+# vlib lab8_soc
+# ** Warning: (vlib-34) Library already exists at "lab8_soc".
+# 
+# vmap lab8_soc lab8_soc
+# Model Technology ModelSim PE vmap 10.3d Lib Mapping Utility 2014.10 Oct  7 2014
+# vmap -modelsim_quiet lab8_soc lab8_soc 
+# Modifying modelsim.ini
+# vlog -vlog01compat -work lab8_soc +incdir+D:/altera/ece385/final_project/lab8_soc/synthesis/submodules {D:/altera/ece385/final_project/lab8_soc/synthesis/submodules/lab8_soc_Keycode.v}
+# Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+# Start time: 02:10:37 on Nov 11,2016
+# vlog -reportprogress 300 -vlog01compat -work lab8_soc "+incdir+D:/altera/ece385/final_project/lab8_soc/synthesis/submodules" D:/altera/ece385/final_project/lab8_soc/synthesis/submodules/lab8_soc_Keycode.v 
+# -- Compiling module lab8_soc_Keycode
+# 
+# Top level modules:
+# 	lab8_soc_Keycode
+# End time: 02:10:37 on Nov 11,2016, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -sv -work work +incdir+D:/altera/ece385/final_project {D:/altera/ece385/final_project/map_ROM.sv}
+# Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+# Start time: 02:10:37 on Nov 11,2016
+# vlog -reportprogress 300 -sv -work work "+incdir+D:/altera/ece385/final_project" D:/altera/ece385/final_project/map_ROM.sv 
+# -- Compiling module map_ROM
+# 
+# Top level modules:
+# 	map_ROM
+# End time: 02:10:37 on Nov 11,2016, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+vsim work.map_ROM
+# vsim -gui "+altera" -l msim_transcript -do "lab8_run_msim_rtl_systemverilog.do" 
+# Start time: 02:10:44 on Nov 11,2016
+# Loading sv_std.std
+# Loading work.map_ROM
+do D:/altera/ece385/final_project/simulation/modelsim/wave.do
+# .main_pane.wave.interior.cs.body.pw.wf
+# Editable Wave items are not compatible with the wave window's standard undo-redo.  Standard undo-redo has been disabled.
+# 1
+# 1
+# 1
+add wave -position end  sim:/map_ROM/currX
+add wave -position end  sim:/map_ROM/currY
+add wave -position end  sim:/map_ROM/indexX
+add wave -position end  sim:/map_ROM/indexY
+add wave -position end  sim:/map_ROM/mapSprite
+add wave -position end  sim:/map_ROM/x
+add wave -position end  sim:/map_ROM/y
+run -all
+wave edit change_value -start 0ns -end 50ns -value 5 Edit:/map_ROM/currX
+# Invalid binary digit: 5.
+restart -f
+# Loading sv_std.std
+# Loading work.map_ROM
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+restart -f
+# Loading sv_std.std
+# Loading work.map_ROM
+wave edit change_value -start 0ns -end 100ns -value 000000111 Edit:/map_ROM/currX
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+restart -f
+# Loading sv_std.std
+# Loading work.map_ROM
+wave edit change_value -start 150ns -end 200ns -value 0000010001 Edit:/map_ROM/currX
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+wave edit change_value -start 250ns -end 300ns -value 0000001001 Edit:/map_ROM/currY
+restart -f
+# Loading sv_std.std
+# Loading work.map_ROM
+run
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+restart -f
+# Loading sv_std.std
+# Loading work.map_ROM
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# End time: 02:19:41 on Nov 11,2016, Elapsed time: 0:08:57
+# Errors: 0, Warnings: 0
+wave editwrite -file D:/altera/ece385/final_project/simulation/modelsim/wave.do

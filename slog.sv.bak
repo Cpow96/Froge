@@ -1,0 +1,52 @@
+module  slog ( input Reset, frame_clk,
+               output int  slog1x, slog1y,
+					output slog1dir);
+    
+	 ///ASSIGNING DIRECTION 0 FOR TEST
+	 
+	 
+	 
+    int Ball_X_Pos, Ball_X_Motion, Ball_Y_Pos, Ball_Y_Motion;
+	
+	logic[7:0] lastkey;
+	//logic [7:0] counter;
+    parameter [9:0] slog1startx=0;//320;  // Center position on the X axis
+    parameter [9:0] slog1starty=53;//240;  // Center position on the Y axis
+	 //parameter [9:0] truck2startx=400;//320;  // Center position on the X axis
+    //parameter [9:0] truck2starty=332;//240;  // Center position on the Y axis
+	 
+    parameter [9:0] Ball_X_Min=0;       // rightmost point on the X axis
+    parameter [9:0] Ball_X_Max=639;     // Rightmost point on the X axis is 32 bits from the edge
+    parameter [9:0] Ball_Y_Min=0;       // Topmost point on the Y axis
+    parameter [9:0] Ball_Y_Max=479;     // Bottommost point on the Y axis is 32 bits up
+    parameter [9:0] slogxstep=1;      // MODIFIER FOR STEP 
+
+
+   
+    always_ff @ (posedge Reset or posedge frame_clk )
+    begin: Move_Ball
+        if (Reset)  // Asynchronous Reset
+        begin 
+				slog1x <= slog1startx;
+				slog1y <= slog1starty;
+				slog1dir <= 8'd0;
+        end
+           
+        else 
+        begin 			 
+				 //------small log 1
+				 
+				 if (slog1x > 512)                      // if it's less than -48 sorta 
+				 begin
+					slog1x <= -32;              // slog 1 loops back around to negative 100 pixels
+				 end 
+				 else
+				 begin
+					slog1x <= (~ (slogxstep) + 1'b1);  // Update othercarleft position, othercarleft 1 moves left
+					end
+		end  
+    end
+       
+    
+
+endmodule

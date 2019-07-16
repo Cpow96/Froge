@@ -1,0 +1,2 @@
+The selected JTAG cable is either not connected to a board, or
+the board is not switched on.

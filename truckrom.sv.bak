@@ -1,0 +1,39 @@
+module froggerrom
+(
+	input logic [4:0] DX, DY,
+	input logic  dir,
+	output logic [7:0] data
+);
+// 1
+	int truckleft [24][48];
+	int truckright [24][48];
+	int frogstanddown [24][24];
+	int frogjumpdown [24][24];
+	int frogstandleft [24][24];
+	int frogjumpleft [24][24];
+	int frogstandright [24][24];
+	int frogjumpright [24][24];
+	
+	always_ff
+	begin
+	 
+
+
+	end
+	
+	always_ff
+	begin
+	
+	unique case (dir)
+		3'd0: data = frogstandup[DY][DX];
+		3'd1: data = frogstandright[DY][DX];
+		3'd2: data = frogstanddown[DY][DX];
+		3'd3: data = frogstandleft[DY][DX];
+		3'd4: data = frogjumpup[DY][DX];
+		3'd5: data = frogjumpright[DY][DX];
+		3'd6: data = frogjumpdown[DY][DX];
+		3'd7: data = frogjumpleft[DY][DX];
+	endcase
+
+	end
+endmodule

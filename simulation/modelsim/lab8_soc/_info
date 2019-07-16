@@ -1,0 +1,1682 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/altera/ece385/final_project/simulation/modelsim
+valtera_avalon_sc_fifo
+Z1 !s110 1478848138
+!i10b 1
+!s100 2@;YleiQS51@UMb7^^WbN1
+Imgo4Gz6G95d6Z>0^DDED`2
+Z2 V`JN@9S9cnhjKRR_L]QIcM3
+R0
+Z3 w1476639999
+8D:/altera/ece385/final_project/lab8_soc/synthesis/submodules/altera_avalon_sc_fifo.v
+FD:/altera/ece385/final_project/lab8_soc/synthesis/submodules/altera_avalon_sc_fifo.v
+Z4 L0 21
+Z5 OV;L;10.3d;59
+r1
+!s85 0
+31
+!s108 1478848138.722000
+!s107 D:/altera/ece385/final_project/lab8_soc/synthesis/submodules/altera_avalon_sc_fifo.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab8_soc|+incdir+D:/altera/ece385/final_project/lab8_soc/synthesis/submodules|D:/altera/ece385/final_project/lab8_soc/synthesis/submodules/altera_avalon_sc_fifo.v|
+!i113 1
+Z6 o-vlog01compat -work lab8_soc
+Z7 !s92 -vlog01compat -work lab8_soc +incdir+D:/altera/ece385/final_project/lab8_soc/synthesis/submodules
+valtera_avalon_st_clock_crosser
+Z8 !s110 1478848141
+!i10b 1
+!s100 _kMN<BJ0mkgSFXTW`85Bh2
+IYW@QJe6HX[knYzBK:gcc43
+R2
+R0
+Z9 w1476640001
+8D:/altera/ece385/final_project/lab8_soc/synthesis/submodules/altera_avalon_st_clock_crosser.v
+FD:/altera/ece385/final_project/lab8_soc/synthesis/submodules/altera_avalon_st_clock_crosser.v
+L0 22
+R5
+r1
+!s85 0
+31
+!s108 1478848141.334000
+!s107 D:/altera/ece385/final_project/lab8_soc/synthesis/submodules/altera_avalon_st_clock_crosser.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab8_soc|+incdir+D:/altera/ece385/final_project/lab8_soc/synthesis/submodules|D:/altera/ece385/final_project/lab8_soc/synthesis/submodules/altera_avalon_st_clock_crosser.v|
+!i113 1
+R6
+R7
+valtera_avalon_st_handshake_clock_crosser
+R8
+!i10b 1
+!s100 <TeLS^R[XXnBHVSJ0:LXK0
+Ih9ObaQNTLG?aNV_PCABjA1
+R2
+R0
+R9
+8D:/altera/ece385/final_project/lab8_soc/synthesis/submodules/altera_avalon_st_handshake_clock_crosser.v
+FD:/altera/ece385/final_project/lab8_soc/synthesis/submodules/altera_avalon_st_handshake_clock_crosser.v
+Z10 L0 24
+R5
+r1
+!s85 0
+31
+!s108 1478848141.255000
+!s107 D:/altera/ece385/final_project/lab8_soc/synthesis/submodules/altera_avalon_st_handshake_clock_crosser.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab8_soc|+incdir+D:/altera/ece385/final_project/lab8_soc/synthesis/submodules|D:/altera/ece385/final_project/lab8_soc/synthesis/submodules/altera_avalon_st_handshake_clock_crosser.v|
+!i113 1
+R6
+R7
+valtera_merlin_arb_adder
+Z11 DXx6 sv_std 3 std 0 22 <EOTafDcUY:cQeO^ICn]m3
+R8
+!i10b 1
+!s100 K`mj4ab`UI=f=Bzd]0FbK0
+I0Q>Jh]C7RViMJ10d;=A941
+R2
+Z12 !s105 altera_merlin_arbitrator_sv_unit
+S1
+R0
+Z13 w1476640000
+Z14 8D:/altera/ece385/final_project/lab8_soc/synthesis/submodules/altera_merlin_arbitrator.sv
+Z15 FD:/altera/ece385/final_project/lab8_soc/synthesis/submodules/altera_merlin_arbitrator.sv
+L0 228
+R5
+r1
+!s85 0
+31
+Z16 !s108 1478848141.414000
+Z17 !s107 D:/altera/ece385/final_project/lab8_soc/synthesis/submodules/altera_merlin_arbitrator.sv|
+Z18 !s90 -reportprogress|300|-sv|-work|lab8_soc|+incdir+D:/altera/ece385/final_project/lab8_soc/synthesis/submodules|D:/altera/ece385/final_project/lab8_soc/synthesis/submodules/altera_merlin_arbitrator.sv|
+!i113 1
+Z19 o-sv -work lab8_soc
+Z20 !s92 -sv -work lab8_soc +incdir+D:/altera/ece385/final_project/lab8_soc/synthesis/submodules
+valtera_merlin_arbitrator
+R11
+R8
+!i10b 1
+!s100 Ni=FjEDhlN5HaJIeO8C?D0
+Io8=gHfJb=@Rb3W8[70WD91
+R2
+R12
+S1
+R0
+R13
+R14
+R15
+L0 103
+R5
+r1
+!s85 0
+31
+R16
+R17
+R18
+!i113 1
+R19
+R20
+valtera_merlin_burst_uncompressor
+R11
+Z21 !s110 1478848142
+!i10b 1
+!s100 GURQ=I3dUngBFBEkGhKmh3
+I^5@mTWR>GhM1UhTNLoQ`o2
+R2
+!s105 altera_merlin_burst_uncompressor_sv_unit
+S1
+R0
+R3
+8D:/altera/ece385/final_project/lab8_soc/synthesis/submodules/altera_merlin_burst_uncompressor.sv
+FD:/altera/ece385/final_project/lab8_soc/synthesis/submodules/altera_merlin_burst_uncompressor.sv
+L0 40
+R5
+r1
+!s85 0
+31
+!s108 1478848142.586000
+!s107 D:/altera/ece385/final_project/lab8_soc/synthesis/submodules/altera_merlin_burst_uncompressor.sv|
+!s90 -reportprogress|300|-sv|-work|lab8_soc|+incdir+D:/altera/ece385/final_project/lab8_soc/synthesis/submodules|D:/altera/ece385/final_project/lab8_soc/synthesis/submodules/altera_merlin_burst_uncompressor.sv|
+!i113 1
+R19
+R20
+valtera_merlin_master_agent
+R11
+R21
+!i10b 1
+!s100 ;96Rc=znn;@WbB0jWGRRl1
+I25?6]?cbB@E;;OZ:D@P=<0
+R2
+!s105 altera_merlin_master_agent_sv_unit
+S1
+R0
+R3
+8D:/altera/ece385/final_project/lab8_soc/synthesis/submodules/altera_merlin_master_agent.sv
+FD:/altera/ece385/final_project/lab8_soc/synthesis/submodules/altera_merlin_master_agent.sv
+L0 28
+R5
+r1
+!s85 0
+31
+!s108 1478848142.687000
+!s107 D:/altera/ece385/final_project/lab8_soc/synthesis/submodules/altera_merlin_master_agent.sv|
+!s90 -reportprogress|300|-sv|-work|lab8_soc|+incdir+D:/altera/ece385/final_project/lab8_soc/synthesis/submodules|D:/altera/ece385/final_project/lab8_soc/synthesis/submodules/altera_merlin_master_agent.sv|
+!i113 1
+R19
+R20
+valtera_merlin_master_translator
+R11
+R21
+!i10b 1
+!s100 6[_D]96gi`8O488PiFWUc1
+ImUBGRJQ;dc5m6gFUfY8bF2
+R2
+!s105 altera_merlin_master_translator_sv_unit
+S1
+R0
+Z22 w1476639998
+8D:/altera/ece385/final_project/lab8_soc/synthesis/submodules/altera_merlin_master_translator.sv
+FD:/altera/ece385/final_project/lab8_soc/synthesis/submodules/altera_merlin_master_translator.sv
+L0 30
+R5
+r1
+!s85 0
+31
+!s108 1478848142.949000
+!s107 D:/altera/ece385/final_project/lab8_soc/synthesis/submodules/altera_merlin_master_translator.sv|
+!s90 -reportprogress|300|-sv|-work|lab8_soc|+incdir+D:/altera/ece385/final_project/lab8_soc/synthesis/submodules|D:/altera/ece385/final_project/lab8_soc/synthesis/submodules/altera_merlin_master_translator.sv|
+!i113 1
+R19
+R20
+valtera_merlin_slave_agent
+R11
+R21
+!i10b 1
+!s100 3LfTAj;bB3aAXgCgCn_bT3
+IjCPiZm:Zc=kj<H:L?HTlf0
+R2
+!s105 altera_merlin_slave_agent_sv_unit
+S1
+R0
+R3
+8D:/altera/ece385/final_project/lab8_soc/synthesis/submodules/altera_merlin_slave_agent.sv
+FD:/altera/ece385/final_project/lab8_soc/synthesis/submodules/altera_merlin_slave_agent.sv
+L0 34
+R5
+r1
+!s85 0
+31
+!s108 1478848142.453000
+!s107 D:/altera/ece385/final_project/lab8_soc/synthesis/submodules/altera_merlin_slave_agent.sv|
+!s90 -reportprogress|300|-sv|-work|lab8_soc|+incdir+D:/altera/ece385/final_project/lab8_soc/synthesis/submodules|D:/altera/ece385/final_project/lab8_soc/synthesis/submodules/altera_merlin_slave_agent.sv|
+!i113 1
+R19
+R20
+valtera_merlin_slave_translator
+R11
+R21
+!i10b 1
+!s100 dTa]H8`_eei9>oMl>o5z71
+I`M6@f7]C]ANR]dRIz2BY=1
+R2
+!s105 altera_merlin_slave_translator_sv_unit
+S1
+R0
+R3
+8D:/altera/ece385/final_project/lab8_soc/synthesis/submodules/altera_merlin_slave_translator.sv
+FD:/altera/ece385/final_project/lab8_soc/synthesis/submodules/altera_merlin_slave_translator.sv
+L0 35
+R5
+r1
+!s85 0
+31
+!s108 1478848142.816000
+!s107 D:/altera/ece385/final_project/lab8_soc/synthesis/submodules/altera_merlin_slave_translator.sv|
+!s90 -reportprogress|300|-sv|-work|lab8_soc|+incdir+D:/altera/ece385/final_project/lab8_soc/synthesis/submodules|D:/altera/ece385/final_project/lab8_soc/synthesis/submodules/altera_merlin_slave_translator.sv|
+!i113 1
+R19
+R20
+valtera_reset_controller
+R1
+!i10b 1
+!s100 VEhLaE^KT@RiagZkfkKI93
+IDBQ^bXc[]>4eaRg=edKP60
+R2
+R0
+R22
+8D:/altera/ece385/final_project/lab8_soc/synthesis/submodules/altera_reset_controller.v
+FD:/altera/ece385/final_project/lab8_soc/synthesis/submodules/altera_reset_controller.v
+L0 42
+R5
+r1
+!s85 0
+31
+!s108 1478848138.201000
+!s107 D:/altera/ece385/final_project/lab8_soc/synthesis/submodules/altera_reset_controller.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab8_soc|+incdir+D:/altera/ece385/final_project/lab8_soc/synthesis/submodules|D:/altera/ece385/final_project/lab8_soc/synthesis/submodules/altera_reset_controller.v|
+!i113 1
+R6
+R7
+valtera_reset_synchronizer
+R1
+!i10b 1
+!s100 UTD:?4E=?>;X@do<;V;hQ1
+ImGZ7JR;A3UIJ4NAITfOB^1
+R2
+R0
+R22
+8D:/altera/ece385/final_project/lab8_soc/synthesis/submodules/altera_reset_synchronizer.v
+FD:/altera/ece385/final_project/lab8_soc/synthesis/submodules/altera_reset_synchronizer.v
+R10
+R5
+r1
+!s85 0
+31
+!s108 1478848138.435000
+!s107 D:/altera/ece385/final_project/lab8_soc/synthesis/submodules/altera_reset_synchronizer.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab8_soc|+incdir+D:/altera/ece385/final_project/lab8_soc/synthesis/submodules|D:/altera/ece385/final_project/lab8_soc/synthesis/submodules/altera_reset_synchronizer.v|
+!i113 1
+R6
+R7
+vlab8_soc
+R1
+!i10b 1
+!s100 Geh;XebEAaQhi;RGU8[E51
+IgY10LcRifII?9]Bda]I:K2
+R2
+R0
+w1476639831
+8D:/altera/ece385/final_project/lab8_soc/synthesis/lab8_soc.v
+FD:/altera/ece385/final_project/lab8_soc/synthesis/lab8_soc.v
+L0 6
+R5
+r1
+!s85 0
+31
+!s108 1478848138.032000
+!s107 D:/altera/ece385/final_project/lab8_soc/synthesis/lab8_soc.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab8_soc|+incdir+D:/altera/ece385/final_project/lab8_soc/synthesis|D:/altera/ece385/final_project/lab8_soc/synthesis/lab8_soc.v|
+!i113 1
+R6
+!s92 -vlog01compat -work lab8_soc +incdir+D:/altera/ece385/final_project/lab8_soc/synthesis
+vlab8_soc_irq_mapper
+R11
+R8
+!i10b 1
+!s100 F6:bSMA1G2^7do]dCoeh>0
+IWEdY3?RiD^fLARME7MN^=0
+R2
+!s105 lab8_soc_irq_mapper_sv_unit
+S1
+R0
+R22
+8D:/altera/ece385/final_project/lab8_soc/synthesis/submodules/lab8_soc_irq_mapper.sv
+FD:/altera/ece385/final_project/lab8_soc/synthesis/submodules/lab8_soc_irq_mapper.sv
+L0 31
+R5
+r1
+!s85 0
+31
+!s108 1478848141.089000
+!s107 D:/altera/ece385/final_project/lab8_soc/synthesis/submodules/lab8_soc_irq_mapper.sv|
+!s90 -reportprogress|300|-sv|-work|lab8_soc|+incdir+D:/altera/ece385/final_project/lab8_soc/synthesis/submodules|D:/altera/ece385/final_project/lab8_soc/synthesis/submodules/lab8_soc_irq_mapper.sv|
+!i113 1
+R19
+R20
+vlab8_soc_jtag_uart_0
+Z23 !s110 1478848140
+!i10b 1
+!s100 ?8GedhQ7L6djL6KDo]iF]2
+I3X2WJaS0i2OA0M02A]F]B1
+R2
+R0
+Z24 w1476639845
+Z25 8D:/altera/ece385/final_project/lab8_soc/synthesis/submodules/lab8_soc_jtag_uart_0.v
+Z26 FD:/altera/ece385/final_project/lab8_soc/synthesis/submodules/lab8_soc_jtag_uart_0.v
+L0 327
+R5
+r1
+!s85 0
+31
+Z27 !s108 1478848140.677000
+Z28 !s107 D:/altera/ece385/final_project/lab8_soc/synthesis/submodules/lab8_soc_jtag_uart_0.v|
+Z29 !s90 -reportprogress|300|-vlog01compat|-work|lab8_soc|+incdir+D:/altera/ece385/final_project/lab8_soc/synthesis/submodules|D:/altera/ece385/final_project/lab8_soc/synthesis/submodules/lab8_soc_jtag_uart_0.v|
+!i113 1
+R6
+R7
+vlab8_soc_jtag_uart_0_scfifo_r
+R23
+!i10b 1
+!s100 W>oGV1lDjVI3U`o7CE2K]3
+IlOhE<LE>hOeW7T7k>M7Ef0
+R2
+R0
+R24
+R25
+R26
+L0 240
+R5
+r1
+!s85 0
+31
+R27
+R28
+R29
+!i113 1
+R6
+R7
+vlab8_soc_jtag_uart_0_scfifo_w
+R23
+!i10b 1
+!s100 ?^HR94Dg9]GOj<Uz1OFzJ0
+I`jE::i59nd8NO;8Z2DE3R2
+R2
+R0
+R24
+R25
+R26
+L0 77
+R5
+r1
+!s85 0
+31
+R27
+R28
+R29
+!i113 1
+R6
+R7
+vlab8_soc_jtag_uart_0_sim_scfifo_r
+R23
+!i10b 1
+!s100 Qm=BPY9Vffl@5WM5S]DFn0
+IGSYU>z7YQ<30kZMV=5@jT3
+R2
+R0
+R24
+R25
+R26
+L0 162
+R5
+r1
+!s85 0
+31
+R27
+R28
+R29
+!i113 1
+R6
+R7
+vlab8_soc_jtag_uart_0_sim_scfifo_w
+R23
+!i10b 1
+!s100 zZo`N5z566LH;KnhU=0Ii0
+IDD>n2=Eh<QfScD]jSSTA03
+R2
+R0
+R24
+R25
+R26
+R4
+R5
+r1
+!s85 0
+31
+R27
+R28
+R29
+!i113 1
+R6
+R7
+vlab8_soc_Keycode
+!s110 1478851837
+!i10b 1
+!s100 ??YZ4jDDPZIJEkhfiV6F92
+I21Ui403gASza@P?n:4:NL1
+R2
+R0
+w1476639844
+8D:/altera/ece385/final_project/lab8_soc/synthesis/submodules/lab8_soc_Keycode.v
+FD:/altera/ece385/final_project/lab8_soc/synthesis/submodules/lab8_soc_Keycode.v
+R4
+R5
+r1
+!s85 0
+31
+!s108 1478851837.700000
+!s107 D:/altera/ece385/final_project/lab8_soc/synthesis/submodules/lab8_soc_Keycode.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab8_soc|+incdir+D:/altera/ece385/final_project/lab8_soc/synthesis/submodules|D:/altera/ece385/final_project/lab8_soc/synthesis/submodules/lab8_soc_Keycode.v|
+!i113 1
+R6
+R7
+nlab8_soc_@keycode
+vlab8_soc_mm_interconnect_0
+R1
+!i10b 1
+!s100 XKd<TUJN_1z4ETUai<gg51
+ITiGP73DAMFk^kFP6RQ62B0
+R2
+R0
+R22
+8D:/altera/ece385/final_project/lab8_soc/synthesis/submodules/lab8_soc_mm_interconnect_0.v
+FD:/altera/ece385/final_project/lab8_soc/synthesis/submodules/lab8_soc_mm_interconnect_0.v
+L0 9
+R5
+r1
+!s85 0
+31
+!s108 1478848138.515000
+!s107 D:/altera/ece385/final_project/lab8_soc/synthesis/submodules/lab8_soc_mm_interconnect_0.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab8_soc|+incdir+D:/altera/ece385/final_project/lab8_soc/synthesis/submodules|D:/altera/ece385/final_project/lab8_soc/synthesis/submodules/lab8_soc_mm_interconnect_0.v|
+!i113 1
+R6
+R7
+vlab8_soc_mm_interconnect_0_avalon_st_adapter
+R1
+!i10b 1
+!s100 kP<]6fKFhE9bN<8]jT3RD0
+IBkmE]hMPfB4;G[3CKU@D43
+R2
+R0
+Z30 w1476640007
+8D:/altera/ece385/final_project/lab8_soc/synthesis/submodules/lab8_soc_mm_interconnect_0_avalon_st_adapter.v
+FD:/altera/ece385/final_project/lab8_soc/synthesis/submodules/lab8_soc_mm_interconnect_0_avalon_st_adapter.v
+L0 9
+R5
+r1
+!s85 0
+31
+!s108 1478848138.620000
+!s107 D:/altera/ece385/final_project/lab8_soc/synthesis/submodules/lab8_soc_mm_interconnect_0_avalon_st_adapter.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab8_soc|+incdir+D:/altera/ece385/final_project/lab8_soc/synthesis/submodules|D:/altera/ece385/final_project/lab8_soc/synthesis/submodules/lab8_soc_mm_interconnect_0_avalon_st_adapter.v|
+!i113 1
+R6
+R7
+vlab8_soc_mm_interconnect_0_avalon_st_adapter_error_adapter_0
+R11
+R8
+!i10b 1
+!s100 _SAaJWW1gS]?R:R[fMEUg0
+IMZzl:YgB2Cz2:[RIZ9e>I3
+R2
+!s105 lab8_soc_mm_interconnect_0_avalon_st_adapter_error_adapter_0_sv_unit
+S1
+R0
+R30
+8D:/altera/ece385/final_project/lab8_soc/synthesis/submodules/lab8_soc_mm_interconnect_0_avalon_st_adapter_error_adapter_0.sv
+FD:/altera/ece385/final_project/lab8_soc/synthesis/submodules/lab8_soc_mm_interconnect_0_avalon_st_adapter_error_adapter_0.sv
+L0 66
+R5
+r1
+!s85 0
+31
+!s108 1478848141.177000
+!s107 D:/altera/ece385/final_project/lab8_soc/synthesis/submodules/lab8_soc_mm_interconnect_0_avalon_st_adapter_error_adapter_0.sv|
+!s90 -reportprogress|300|-sv|-work|lab8_soc|+incdir+D:/altera/ece385/final_project/lab8_soc/synthesis/submodules|D:/altera/ece385/final_project/lab8_soc/synthesis/submodules/lab8_soc_mm_interconnect_0_avalon_st_adapter_error_adapter_0.sv|
+!i113 1
+R19
+R20
+vlab8_soc_mm_interconnect_0_cmd_demux
+R11
+R21
+!i10b 1
+!s100 zGUK5hZfDTX>J@Imz1=WS1
+I5I4h0Qa`00;jb8L[nT7aY0
+R2
+!s105 lab8_soc_mm_interconnect_0_cmd_demux_sv_unit
+S1
+R0
+R13
+8D:/altera/ece385/final_project/lab8_soc/synthesis/submodules/lab8_soc_mm_interconnect_0_cmd_demux.sv
+FD:/altera/ece385/final_project/lab8_soc/synthesis/submodules/lab8_soc_mm_interconnect_0_cmd_demux.sv
+Z31 L0 43
+R5
+r1
+!s85 0
+31
+!s108 1478848142.050000
+!s107 D:/altera/ece385/final_project/lab8_soc/synthesis/submodules/lab8_soc_mm_interconnect_0_cmd_demux.sv|
+!s90 -reportprogress|300|-sv|-work|lab8_soc|+incdir+D:/altera/ece385/final_project/lab8_soc/synthesis/submodules|D:/altera/ece385/final_project/lab8_soc/synthesis/submodules/lab8_soc_mm_interconnect_0_cmd_demux.sv|
+!i113 1
+R19
+R20
+vlab8_soc_mm_interconnect_0_cmd_demux_001
+R11
+R8
+!i10b 1
+!s100 ^91oG:=V3>RG[4T<f;MlU2
+I=EeLaBH_WVRe64XEfV7[D2
+R2
+!s105 lab8_soc_mm_interconnect_0_cmd_demux_001_sv_unit
+S1
+R0
+R13
+8D:/altera/ece385/final_project/lab8_soc/synthesis/submodules/lab8_soc_mm_interconnect_0_cmd_demux_001.sv
+FD:/altera/ece385/final_project/lab8_soc/synthesis/submodules/lab8_soc_mm_interconnect_0_cmd_demux_001.sv
+R31
+R5
+r1
+!s85 0
+31
+!s108 1478848141.971000
+!s107 D:/altera/ece385/final_project/lab8_soc/synthesis/submodules/lab8_soc_mm_interconnect_0_cmd_demux_001.sv|
+!s90 -reportprogress|300|-sv|-work|lab8_soc|+incdir+D:/altera/ece385/final_project/lab8_soc/synthesis/submodules|D:/altera/ece385/final_project/lab8_soc/synthesis/submodules/lab8_soc_mm_interconnect_0_cmd_demux_001.sv|
+!i113 1
+R19
+R20
+vlab8_soc_mm_interconnect_0_cmd_mux
+R11
+R8
+!i10b 1
+!s100 EaOzK=BhLMo^f@;mcQ_BG2
+IX>QcLgb_9lfXP>oo1?HEO1
+R2
+!s105 lab8_soc_mm_interconnect_0_cmd_mux_sv_unit
+S1
+R0
+R13
+8D:/altera/ece385/final_project/lab8_soc/synthesis/submodules/lab8_soc_mm_interconnect_0_cmd_mux.sv
+FD:/altera/ece385/final_project/lab8_soc/synthesis/submodules/lab8_soc_mm_interconnect_0_cmd_mux.sv
+Z32 L0 51
+R5
+r1
+!s85 0
+31
+!s108 1478848141.900000
+!s107 D:/altera/ece385/final_project/lab8_soc/synthesis/submodules/lab8_soc_mm_interconnect_0_cmd_mux.sv|
+!s90 -reportprogress|300|-sv|-work|lab8_soc|+incdir+D:/altera/ece385/final_project/lab8_soc/synthesis/submodules|D:/altera/ece385/final_project/lab8_soc/synthesis/submodules/lab8_soc_mm_interconnect_0_cmd_mux.sv|
+!i113 1
+R19
+R20
+vlab8_soc_mm_interconnect_0_cmd_mux_001
+R11
+R8
+!i10b 1
+!s100 CV=Q<VBjFc]C^[`V;T4Lk3
+ISL`J[ab0HJM;89dg<_l=^3
+R2
+!s105 lab8_soc_mm_interconnect_0_cmd_mux_001_sv_unit
+S1
+R0
+R13
+8D:/altera/ece385/final_project/lab8_soc/synthesis/submodules/lab8_soc_mm_interconnect_0_cmd_mux_001.sv
+FD:/altera/ece385/final_project/lab8_soc/synthesis/submodules/lab8_soc_mm_interconnect_0_cmd_mux_001.sv
+R32
+R5
+r1
+!s85 0
+31
+!s108 1478848141.821000
+!s107 D:/altera/ece385/final_project/lab8_soc/synthesis/submodules/lab8_soc_mm_interconnect_0_cmd_mux_001.sv|
+!s90 -reportprogress|300|-sv|-work|lab8_soc|+incdir+D:/altera/ece385/final_project/lab8_soc/synthesis/submodules|D:/altera/ece385/final_project/lab8_soc/synthesis/submodules/lab8_soc_mm_interconnect_0_cmd_mux_001.sv|
+!i113 1
+R19
+R20
+vlab8_soc_mm_interconnect_0_router
+R11
+R21
+!i10b 1
+!s100 FQ`>FILAJUojYZ@>Goe:W1
+Ikj>D`b:Hn>BMVIN]XfT8K3
+R2
+Z33 !s105 lab8_soc_mm_interconnect_0_router_sv_unit
+S1
+R0
+R3
+Z34 8D:/altera/ece385/final_project/lab8_soc/synthesis/submodules/lab8_soc_mm_interconnect_0_router.sv
+Z35 FD:/altera/ece385/final_project/lab8_soc/synthesis/submodules/lab8_soc_mm_interconnect_0_router.sv
+Z36 L0 84
+R5
+r1
+!s85 0
+31
+Z37 !s108 1478848142.367000
+Z38 !s107 D:/altera/ece385/final_project/lab8_soc/synthesis/submodules/lab8_soc_mm_interconnect_0_router.sv|
+Z39 !s90 -reportprogress|300|-sv|-work|lab8_soc|+incdir+D:/altera/ece385/final_project/lab8_soc/synthesis/submodules|D:/altera/ece385/final_project/lab8_soc/synthesis/submodules/lab8_soc_mm_interconnect_0_router.sv|
+!i113 1
+R19
+R20
+vlab8_soc_mm_interconnect_0_router_001
+R11
+R21
+!i10b 1
+!s100 7<K4kVcZSR2>:R2j9jR:c1
+IZ30Uz4`oXdOkjGHVY=fH42
+R2
+Z40 !s105 lab8_soc_mm_interconnect_0_router_001_sv_unit
+S1
+R0
+R3
+Z41 8D:/altera/ece385/final_project/lab8_soc/synthesis/submodules/lab8_soc_mm_interconnect_0_router_001.sv
+Z42 FD:/altera/ece385/final_project/lab8_soc/synthesis/submodules/lab8_soc_mm_interconnect_0_router_001.sv
+R36
+R5
+r1
+!s85 0
+31
+Z43 !s108 1478848142.287000
+Z44 !s107 D:/altera/ece385/final_project/lab8_soc/synthesis/submodules/lab8_soc_mm_interconnect_0_router_001.sv|
+Z45 !s90 -reportprogress|300|-sv|-work|lab8_soc|+incdir+D:/altera/ece385/final_project/lab8_soc/synthesis/submodules|D:/altera/ece385/final_project/lab8_soc/synthesis/submodules/lab8_soc_mm_interconnect_0_router_001.sv|
+!i113 1
+R19
+R20
+vlab8_soc_mm_interconnect_0_router_001_default_decode
+R11
+R21
+!i10b 1
+!s100 ^UE@UaYeFk8:4<XL`91Q?3
+ILoz@DYzAjIgDZ]Cmj42zD2
+R2
+R40
+S1
+R0
+R3
+R41
+R42
+Z46 L0 45
+R5
+r1
+!s85 0
+31
+R43
+R44
+R45
+!i113 1
+R19
+R20
+vlab8_soc_mm_interconnect_0_router_002
+R11
+R21
+!i10b 1
+!s100 PAK7ZUEE]ZdWfh8mY9?J73
+Ih<BK@MTdn4`aJ[6]RW3IN3
+R2
+Z47 !s105 lab8_soc_mm_interconnect_0_router_002_sv_unit
+S1
+R0
+R3
+Z48 8D:/altera/ece385/final_project/lab8_soc/synthesis/submodules/lab8_soc_mm_interconnect_0_router_002.sv
+Z49 FD:/altera/ece385/final_project/lab8_soc/synthesis/submodules/lab8_soc_mm_interconnect_0_router_002.sv
+R36
+R5
+r1
+!s85 0
+31
+Z50 !s108 1478848142.212000
+Z51 !s107 D:/altera/ece385/final_project/lab8_soc/synthesis/submodules/lab8_soc_mm_interconnect_0_router_002.sv|
+Z52 !s90 -reportprogress|300|-sv|-work|lab8_soc|+incdir+D:/altera/ece385/final_project/lab8_soc/synthesis/submodules|D:/altera/ece385/final_project/lab8_soc/synthesis/submodules/lab8_soc_mm_interconnect_0_router_002.sv|
+!i113 1
+R19
+R20
+vlab8_soc_mm_interconnect_0_router_002_default_decode
+R11
+R21
+!i10b 1
+!s100 z8?UfazWB>8MmXA2FP2f?3
+I_INc69SoGZ_M@4iM0]IeN1
+R2
+R47
+S1
+R0
+R3
+R48
+R49
+R46
+R5
+r1
+!s85 0
+31
+R50
+R51
+R52
+!i113 1
+R19
+R20
+vlab8_soc_mm_interconnect_0_router_003
+R11
+R21
+!i10b 1
+!s100 [ej6ia;kA^gdkISV?O07Z2
+I1i@B]oEJjQjn[f45[i>KC2
+R2
+Z53 !s105 lab8_soc_mm_interconnect_0_router_003_sv_unit
+S1
+R0
+R3
+Z54 8D:/altera/ece385/final_project/lab8_soc/synthesis/submodules/lab8_soc_mm_interconnect_0_router_003.sv
+Z55 FD:/altera/ece385/final_project/lab8_soc/synthesis/submodules/lab8_soc_mm_interconnect_0_router_003.sv
+R36
+R5
+r1
+!s85 0
+31
+Z56 !s108 1478848142.121000
+Z57 !s107 D:/altera/ece385/final_project/lab8_soc/synthesis/submodules/lab8_soc_mm_interconnect_0_router_003.sv|
+Z58 !s90 -reportprogress|300|-sv|-work|lab8_soc|+incdir+D:/altera/ece385/final_project/lab8_soc/synthesis/submodules|D:/altera/ece385/final_project/lab8_soc/synthesis/submodules/lab8_soc_mm_interconnect_0_router_003.sv|
+!i113 1
+R19
+R20
+vlab8_soc_mm_interconnect_0_router_003_default_decode
+R11
+R21
+!i10b 1
+!s100 6LQ[5Qi5Nk_8OA938RHG:2
+IV:PMkILZ6L2U@QjN=;z5I1
+R2
+R53
+S1
+R0
+R3
+R54
+R55
+R46
+R5
+r1
+!s85 0
+31
+R56
+R57
+R58
+!i113 1
+R19
+R20
+vlab8_soc_mm_interconnect_0_router_default_decode
+R11
+R21
+!i10b 1
+!s100 UEQMKH=[7c@KS`6Gg3YH<3
+IX?N@6U=mHk25XNTXb2Wd^3
+R2
+R33
+S1
+R0
+R3
+R34
+R35
+R46
+R5
+r1
+!s85 0
+31
+R37
+R38
+R39
+!i113 1
+R19
+R20
+vlab8_soc_mm_interconnect_0_rsp_demux
+R11
+R8
+!i10b 1
+!s100 CVQV2YW4[Tode]fQ_I[oj3
+IK[ciNEnK5?M0YmPMKl[Li1
+R2
+!s105 lab8_soc_mm_interconnect_0_rsp_demux_sv_unit
+S1
+R0
+R13
+8D:/altera/ece385/final_project/lab8_soc/synthesis/submodules/lab8_soc_mm_interconnect_0_rsp_demux.sv
+FD:/altera/ece385/final_project/lab8_soc/synthesis/submodules/lab8_soc_mm_interconnect_0_rsp_demux.sv
+R31
+R5
+r1
+!s85 0
+31
+!s108 1478848141.738000
+!s107 D:/altera/ece385/final_project/lab8_soc/synthesis/submodules/lab8_soc_mm_interconnect_0_rsp_demux.sv|
+!s90 -reportprogress|300|-sv|-work|lab8_soc|+incdir+D:/altera/ece385/final_project/lab8_soc/synthesis/submodules|D:/altera/ece385/final_project/lab8_soc/synthesis/submodules/lab8_soc_mm_interconnect_0_rsp_demux.sv|
+!i113 1
+R19
+R20
+vlab8_soc_mm_interconnect_0_rsp_demux_001
+R11
+R8
+!i10b 1
+!s100 M8j@zizL>V;16]Im]gbCz3
+IQV4iTY]Q]_0^enbgG:b_=0
+R2
+!s105 lab8_soc_mm_interconnect_0_rsp_demux_001_sv_unit
+S1
+R0
+R13
+8D:/altera/ece385/final_project/lab8_soc/synthesis/submodules/lab8_soc_mm_interconnect_0_rsp_demux_001.sv
+FD:/altera/ece385/final_project/lab8_soc/synthesis/submodules/lab8_soc_mm_interconnect_0_rsp_demux_001.sv
+R31
+R5
+r1
+!s85 0
+31
+!s108 1478848141.661000
+!s107 D:/altera/ece385/final_project/lab8_soc/synthesis/submodules/lab8_soc_mm_interconnect_0_rsp_demux_001.sv|
+!s90 -reportprogress|300|-sv|-work|lab8_soc|+incdir+D:/altera/ece385/final_project/lab8_soc/synthesis/submodules|D:/altera/ece385/final_project/lab8_soc/synthesis/submodules/lab8_soc_mm_interconnect_0_rsp_demux_001.sv|
+!i113 1
+R19
+R20
+vlab8_soc_mm_interconnect_0_rsp_mux
+R11
+R8
+!i10b 1
+!s100 =[7QLmbmG`mgW_Hh>Z`390
+IVQ:95obzB0iL31kz;@L0m0
+R2
+!s105 lab8_soc_mm_interconnect_0_rsp_mux_sv_unit
+S1
+R0
+R13
+8D:/altera/ece385/final_project/lab8_soc/synthesis/submodules/lab8_soc_mm_interconnect_0_rsp_mux.sv
+FD:/altera/ece385/final_project/lab8_soc/synthesis/submodules/lab8_soc_mm_interconnect_0_rsp_mux.sv
+R32
+R5
+r1
+!s85 0
+31
+!s108 1478848141.567000
+!s107 D:/altera/ece385/final_project/lab8_soc/synthesis/submodules/lab8_soc_mm_interconnect_0_rsp_mux.sv|
+!s90 -reportprogress|300|-sv|-work|lab8_soc|+incdir+D:/altera/ece385/final_project/lab8_soc/synthesis/submodules|D:/altera/ece385/final_project/lab8_soc/synthesis/submodules/lab8_soc_mm_interconnect_0_rsp_mux.sv|
+!i113 1
+R19
+R20
+vlab8_soc_mm_interconnect_0_rsp_mux_001
+R11
+R8
+!i10b 1
+!s100 @RNzXkj1h7^:<i;iQMV^^1
+Ie=03ilo:U4dze`Z4Ta=`Q1
+R2
+!s105 lab8_soc_mm_interconnect_0_rsp_mux_001_sv_unit
+S1
+R0
+R13
+8D:/altera/ece385/final_project/lab8_soc/synthesis/submodules/lab8_soc_mm_interconnect_0_rsp_mux_001.sv
+FD:/altera/ece385/final_project/lab8_soc/synthesis/submodules/lab8_soc_mm_interconnect_0_rsp_mux_001.sv
+R32
+R5
+r1
+!s85 0
+31
+!s108 1478848141.492000
+!s107 D:/altera/ece385/final_project/lab8_soc/synthesis/submodules/lab8_soc_mm_interconnect_0_rsp_mux_001.sv|
+!s90 -reportprogress|300|-sv|-work|lab8_soc|+incdir+D:/altera/ece385/final_project/lab8_soc/synthesis/submodules|D:/altera/ece385/final_project/lab8_soc/synthesis/submodules/lab8_soc_mm_interconnect_0_rsp_mux_001.sv|
+!i113 1
+R19
+R20
+vlab8_soc_nios2_qsys_0
+Z59 !s110 1478848139
+!i10b 1
+!s100 f@H7Y4=EW>W68Fo]HR]cn1
+IU;7]B61=Vb5K<2ZRUbe`m3
+R2
+R0
+Z60 w1476639863
+Z61 8D:/altera/ece385/final_project/lab8_soc/synthesis/submodules/lab8_soc_nios2_qsys_0.v
+Z62 FD:/altera/ece385/final_project/lab8_soc/synthesis/submodules/lab8_soc_nios2_qsys_0.v
+L0 3166
+R5
+r1
+!s85 0
+31
+Z63 !s108 1478848139.685000
+Z64 !s107 D:/altera/ece385/final_project/lab8_soc/synthesis/submodules/lab8_soc_nios2_qsys_0.v|
+Z65 !s90 -reportprogress|300|-vlog01compat|-work|lab8_soc|+incdir+D:/altera/ece385/final_project/lab8_soc/synthesis/submodules|D:/altera/ece385/final_project/lab8_soc/synthesis/submodules/lab8_soc_nios2_qsys_0.v|
+!i113 1
+R6
+R7
+vlab8_soc_nios2_qsys_0_jtag_debug_module_sysclk
+R23
+!i10b 1
+!s100 1B7Y:;ebJgShbHIXJ5nO[3
+I]?><9z9zC^LchDb4;6=4m3
+R2
+R0
+R60
+8D:/altera/ece385/final_project/lab8_soc/synthesis/submodules/lab8_soc_nios2_qsys_0_jtag_debug_module_sysclk.v
+FD:/altera/ece385/final_project/lab8_soc/synthesis/submodules/lab8_soc_nios2_qsys_0_jtag_debug_module_sysclk.v
+R4
+R5
+r1
+!s85 0
+31
+!s108 1478848140.177000
+!s107 D:/altera/ece385/final_project/lab8_soc/synthesis/submodules/lab8_soc_nios2_qsys_0_jtag_debug_module_sysclk.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab8_soc|+incdir+D:/altera/ece385/final_project/lab8_soc/synthesis/submodules|D:/altera/ece385/final_project/lab8_soc/synthesis/submodules/lab8_soc_nios2_qsys_0_jtag_debug_module_sysclk.v|
+!i113 1
+R6
+R7
+vlab8_soc_nios2_qsys_0_jtag_debug_module_tck
+R23
+!i10b 1
+!s100 L`a4J_BNPMP8F14@WR^:<0
+I1h^`07;cfVl>:R4iP9fg32
+R2
+R0
+R60
+8D:/altera/ece385/final_project/lab8_soc/synthesis/submodules/lab8_soc_nios2_qsys_0_jtag_debug_module_tck.v
+FD:/altera/ece385/final_project/lab8_soc/synthesis/submodules/lab8_soc_nios2_qsys_0_jtag_debug_module_tck.v
+R4
+R5
+r1
+!s85 0
+31
+!s108 1478848140.268000
+!s107 D:/altera/ece385/final_project/lab8_soc/synthesis/submodules/lab8_soc_nios2_qsys_0_jtag_debug_module_tck.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab8_soc|+incdir+D:/altera/ece385/final_project/lab8_soc/synthesis/submodules|D:/altera/ece385/final_project/lab8_soc/synthesis/submodules/lab8_soc_nios2_qsys_0_jtag_debug_module_tck.v|
+!i113 1
+R6
+R7
+vlab8_soc_nios2_qsys_0_jtag_debug_module_wrapper
+R23
+!i10b 1
+!s100 kCIa[@Mz8KJTCEGf7oc_m0
+IEJJ9>V3=4<Td`bG3HCKdO2
+R2
+R0
+R60
+8D:/altera/ece385/final_project/lab8_soc/synthesis/submodules/lab8_soc_nios2_qsys_0_jtag_debug_module_wrapper.v
+FD:/altera/ece385/final_project/lab8_soc/synthesis/submodules/lab8_soc_nios2_qsys_0_jtag_debug_module_wrapper.v
+R4
+R5
+r1
+!s85 0
+31
+!s108 1478848140.360000
+!s107 D:/altera/ece385/final_project/lab8_soc/synthesis/submodules/lab8_soc_nios2_qsys_0_jtag_debug_module_wrapper.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab8_soc|+incdir+D:/altera/ece385/final_project/lab8_soc/synthesis/submodules|D:/altera/ece385/final_project/lab8_soc/synthesis/submodules/lab8_soc_nios2_qsys_0_jtag_debug_module_wrapper.v|
+!i113 1
+R6
+R7
+vlab8_soc_nios2_qsys_0_nios2_avalon_reg
+R59
+!i10b 1
+!s100 7Z[2C8bcDS0KSkHni>jZL1
+IeRLDCV_43^[`0TXhbahZe2
+R2
+R0
+R60
+R61
+R62
+L0 536
+R5
+r1
+!s85 0
+31
+R63
+R64
+R65
+!i113 1
+R6
+R7
+vlab8_soc_nios2_qsys_0_nios2_oci
+R59
+!i10b 1
+!s100 co[;ELe?;V<?4nYG0gRbQ2
+Ind]]TgENUX:eN3j`C9R9g1
+R2
+R0
+R60
+R61
+R62
+L0 2658
+R5
+r1
+!s85 0
+31
+R63
+R64
+R65
+!i113 1
+R6
+R7
+vlab8_soc_nios2_qsys_0_nios2_oci_break
+R59
+!i10b 1
+!s100 lR_HcA0ZJDmi2JAfGghU63
+I;Q2XS]T<XeYPOzhAlJAJG3
+R2
+R0
+R60
+R61
+R62
+L0 628
+R5
+r1
+!s85 0
+31
+R63
+R64
+R65
+!i113 1
+R6
+R7
+vlab8_soc_nios2_qsys_0_nios2_oci_compute_input_tm_cnt
+R59
+!i10b 1
+!s100 gP?=lfYl=4Q@5;jon?X1h0
+IeN4]6LVC4B3:PFTg3=M@21
+R2
+R0
+R60
+R61
+R62
+L0 1798
+R5
+r1
+!s85 0
+31
+R63
+R64
+R65
+!i113 1
+R6
+R7
+vlab8_soc_nios2_qsys_0_nios2_oci_dbrk
+R59
+!i10b 1
+!s100 ojF[AP1@AYPkkj5YVL5YF0
+I4K99?dU`6eE^mHVSNB_F52
+R2
+R0
+R60
+R61
+R62
+L0 1128
+R5
+r1
+!s85 0
+31
+R63
+R64
+R65
+!i113 1
+R6
+R7
+vlab8_soc_nios2_qsys_0_nios2_oci_debug
+R59
+!i10b 1
+!s100 1eIW:EaPG?=58[Wg3@]ch0
+IVcGmzA>Y];P]XS`g^g>e11
+R2
+R0
+R60
+R61
+R62
+L0 151
+R5
+r1
+!s85 0
+31
+R63
+R64
+R65
+!i113 1
+R6
+R7
+vlab8_soc_nios2_qsys_0_nios2_oci_dtrace
+R59
+!i10b 1
+!s100 2UiPHQZgX6Y=ImX=_K@:a1
+I<Uf0<TYB_f>nWBiaU>kX90
+R2
+R0
+R60
+R61
+R62
+L0 1704
+R5
+r1
+!s85 0
+31
+R63
+R64
+R65
+!i113 1
+R6
+R7
+vlab8_soc_nios2_qsys_0_nios2_oci_fifo
+R59
+!i10b 1
+!s100 AGh612]>j4QH<fVIY>X`z2
+ID6`KM3AmzXMJYfXTzih3^2
+R2
+R0
+R60
+R61
+R62
+L0 1957
+R5
+r1
+!s85 0
+31
+R63
+R64
+R65
+!i113 1
+R6
+R7
+vlab8_soc_nios2_qsys_0_nios2_oci_fifo_cnt_inc
+R59
+!i10b 1
+!s100 czK<3HW:[`BA?ZXYAgE883
+IPK[VUhCD9dMT>1L[NXfW]0
+R2
+R0
+R60
+R61
+R62
+L0 1911
+R5
+r1
+!s85 0
+31
+R63
+R64
+R65
+!i113 1
+R6
+R7
+vlab8_soc_nios2_qsys_0_nios2_oci_fifo_wrptr_inc
+R59
+!i10b 1
+!s100 Z<N5A@A<C9ZC^`SEiSlD?0
+IDRZka_3kYSX4Id;N]EWX10
+R2
+R0
+R60
+R61
+R62
+L0 1869
+R5
+r1
+!s85 0
+31
+R63
+R64
+R65
+!i113 1
+R6
+R7
+vlab8_soc_nios2_qsys_0_nios2_oci_im
+R59
+!i10b 1
+!s100 cDSz2C0;zP<d_8KOk>l3j1
+I?g^P[^UGS902b`Sez^J`U0
+R2
+R0
+R60
+R61
+R62
+L0 2526
+R5
+r1
+!s85 0
+31
+R63
+R64
+R65
+!i113 1
+R6
+R7
+vlab8_soc_nios2_qsys_0_nios2_oci_itrace
+R59
+!i10b 1
+!s100 ^D?S>CNm2V_moeck_7W:l0
+ILlf^EmOiT<`9GZZ^HVf6c3
+R2
+R0
+R60
+R61
+R62
+L0 1314
+R5
+r1
+!s85 0
+31
+R63
+R64
+R65
+!i113 1
+R6
+R7
+vlab8_soc_nios2_qsys_0_nios2_oci_pib
+R59
+!i10b 1
+!s100 @M^Wn56Mkd33B0]fE15bR0
+IfJS_QnEPcNM^A`H@Dd7AC0
+R2
+R0
+R60
+R61
+R62
+L0 2458
+R5
+r1
+!s85 0
+31
+R63
+R64
+R65
+!i113 1
+R6
+R7
+vlab8_soc_nios2_qsys_0_nios2_oci_td_mode
+R59
+!i10b 1
+!s100 5Bf6j=Ho=_Nk`QG=_:W[W3
+IAiIEQ26lhcBz:``g4e7zF2
+R2
+R0
+R60
+R61
+R62
+L0 1637
+R5
+r1
+!s85 0
+31
+R63
+R64
+R65
+!i113 1
+R6
+R7
+vlab8_soc_nios2_qsys_0_nios2_oci_xbrk
+R59
+!i10b 1
+!s100 IkIf[Q1;3m=g^Xozcn>ER1
+I?1j^PDZQoC=zCzbM?DPNY3
+R2
+R0
+R60
+R61
+R62
+L0 922
+R5
+r1
+!s85 0
+31
+R63
+R64
+R65
+!i113 1
+R6
+R7
+vlab8_soc_nios2_qsys_0_nios2_ocimem
+R59
+!i10b 1
+!s100 61fcm5jAMbm2EXh]Y=4cO3
+I40W>8_GMU]2LcK61mghZR3
+R2
+R0
+R60
+R61
+R62
+L0 355
+R5
+r1
+!s85 0
+31
+R63
+R64
+R65
+!i113 1
+R6
+R7
+vlab8_soc_nios2_qsys_0_nios2_performance_monitors
+R59
+!i10b 1
+!s100 `z>XAP`<7zj<:SOI^QL_i1
+IBP`h<1Q9ChzCLKOA?<<[P3
+R2
+R0
+R60
+R61
+R62
+L0 2642
+R5
+r1
+!s85 0
+31
+R63
+R64
+R65
+!i113 1
+R6
+R7
+vlab8_soc_nios2_qsys_0_oci_test_bench
+R23
+!i10b 1
+!s100 kQ88U32nl8d]0gdDWB2380
+IAcnc6S3YMWTY=Ri9JA9nZ0
+R2
+R0
+R60
+8D:/altera/ece385/final_project/lab8_soc/synthesis/submodules/lab8_soc_nios2_qsys_0_oci_test_bench.v
+FD:/altera/ece385/final_project/lab8_soc/synthesis/submodules/lab8_soc_nios2_qsys_0_oci_test_bench.v
+R4
+R5
+r1
+!s85 0
+31
+!s108 1478848140.458000
+!s107 D:/altera/ece385/final_project/lab8_soc/synthesis/submodules/lab8_soc_nios2_qsys_0_oci_test_bench.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab8_soc|+incdir+D:/altera/ece385/final_project/lab8_soc/synthesis/submodules|D:/altera/ece385/final_project/lab8_soc/synthesis/submodules/lab8_soc_nios2_qsys_0_oci_test_bench.v|
+!i113 1
+R6
+R7
+vlab8_soc_nios2_qsys_0_ociram_sp_ram_module
+R59
+!i10b 1
+!s100 Gi<69N2jhM8?HU1MWPdle3
+I[FICkN9zK7[_JAlhhY<X;2
+R2
+R0
+R60
+R61
+R62
+L0 292
+R5
+r1
+!s85 0
+31
+R63
+R64
+R65
+!i113 1
+R6
+R7
+vlab8_soc_nios2_qsys_0_register_bank_a_module
+R59
+!i10b 1
+!s100 7iUaB;:b?WB@FeGb;zAUQ3
+IDK:mn=k]XhfT@^B;kDGNN0
+R2
+R0
+R60
+R61
+R62
+R4
+R5
+r1
+!s85 0
+31
+R63
+R64
+R65
+!i113 1
+R6
+R7
+vlab8_soc_nios2_qsys_0_register_bank_b_module
+R59
+!i10b 1
+!s100 G9:?4`LfEFl5PQEX4n=Q50
+IiMDlWUH?P?b]KIe:?e@Fz3
+R2
+R0
+R60
+R61
+R62
+L0 86
+R5
+r1
+!s85 0
+31
+R63
+R64
+R65
+!i113 1
+R6
+R7
+vlab8_soc_nios2_qsys_0_test_bench
+R23
+!i10b 1
+!s100 4OFDm_a]Fig=cMK<A7@Gh1
+IO`9Fc91l;Uf2V8G=9Jnjn1
+R2
+R0
+R60
+8D:/altera/ece385/final_project/lab8_soc/synthesis/submodules/lab8_soc_nios2_qsys_0_test_bench.v
+FD:/altera/ece385/final_project/lab8_soc/synthesis/submodules/lab8_soc_nios2_qsys_0_test_bench.v
+R4
+R5
+r1
+!s85 0
+31
+!s108 1478848140.553000
+!s107 D:/altera/ece385/final_project/lab8_soc/synthesis/submodules/lab8_soc_nios2_qsys_0_test_bench.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab8_soc|+incdir+D:/altera/ece385/final_project/lab8_soc/synthesis/submodules|D:/altera/ece385/final_project/lab8_soc/synthesis/submodules/lab8_soc_nios2_qsys_0_test_bench.v|
+!i113 1
+R6
+R7
+vlab8_soc_onchip_memory2_0
+R59
+!i10b 1
+!s100 ]?Ydb0z1Z?MUDhoHbl@^:3
+IkB@iBhBVOXmofHj>N4ZD92
+R2
+R0
+Z66 w1476639864
+8D:/altera/ece385/final_project/lab8_soc/synthesis/submodules/lab8_soc_onchip_memory2_0.v
+FD:/altera/ece385/final_project/lab8_soc/synthesis/submodules/lab8_soc_onchip_memory2_0.v
+R4
+R5
+r1
+!s85 0
+31
+!s108 1478848139.486000
+!s107 D:/altera/ece385/final_project/lab8_soc/synthesis/submodules/lab8_soc_onchip_memory2_0.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab8_soc|+incdir+D:/altera/ece385/final_project/lab8_soc/synthesis/submodules|D:/altera/ece385/final_project/lab8_soc/synthesis/submodules/lab8_soc_onchip_memory2_0.v|
+!i113 1
+R6
+R7
+vlab8_soc_otg_hpi_address
+R59
+!i10b 1
+!s100 =nk>Xh_<UFg^zUzN_:Y6g2
+ID347^j7XQLImQJOL@>eIc2
+R2
+R0
+R66
+8D:/altera/ece385/final_project/lab8_soc/synthesis/submodules/lab8_soc_otg_hpi_address.v
+FD:/altera/ece385/final_project/lab8_soc/synthesis/submodules/lab8_soc_otg_hpi_address.v
+R4
+R5
+r1
+!s85 0
+31
+!s108 1478848139.384000
+!s107 D:/altera/ece385/final_project/lab8_soc/synthesis/submodules/lab8_soc_otg_hpi_address.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab8_soc|+incdir+D:/altera/ece385/final_project/lab8_soc/synthesis/submodules|D:/altera/ece385/final_project/lab8_soc/synthesis/submodules/lab8_soc_otg_hpi_address.v|
+!i113 1
+R6
+R7
+vlab8_soc_otg_hpi_cs
+R59
+!i10b 1
+!s100 73U13EMQDgETYYkkhS0U20
+I9I^gnnoN5MCdfaUYV__>a1
+R2
+R0
+R66
+8D:/altera/ece385/final_project/lab8_soc/synthesis/submodules/lab8_soc_otg_hpi_cs.v
+FD:/altera/ece385/final_project/lab8_soc/synthesis/submodules/lab8_soc_otg_hpi_cs.v
+R4
+R5
+r1
+!s85 0
+31
+!s108 1478848139.272000
+!s107 D:/altera/ece385/final_project/lab8_soc/synthesis/submodules/lab8_soc_otg_hpi_cs.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab8_soc|+incdir+D:/altera/ece385/final_project/lab8_soc/synthesis/submodules|D:/altera/ece385/final_project/lab8_soc/synthesis/submodules/lab8_soc_otg_hpi_cs.v|
+!i113 1
+R6
+R7
+vlab8_soc_otg_hpi_data
+R59
+!i10b 1
+!s100 WSQM^T@f^eoZhEVO0Kl^m0
+I;M?1KJCXff_DonYjJ>4Bi1
+R2
+R0
+R66
+8D:/altera/ece385/final_project/lab8_soc/synthesis/submodules/lab8_soc_otg_hpi_data.v
+FD:/altera/ece385/final_project/lab8_soc/synthesis/submodules/lab8_soc_otg_hpi_data.v
+R4
+R5
+r1
+!s85 0
+31
+!s108 1478848139.179000
+!s107 D:/altera/ece385/final_project/lab8_soc/synthesis/submodules/lab8_soc_otg_hpi_data.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab8_soc|+incdir+D:/altera/ece385/final_project/lab8_soc/synthesis/submodules|D:/altera/ece385/final_project/lab8_soc/synthesis/submodules/lab8_soc_otg_hpi_data.v|
+!i113 1
+R6
+R7
+vlab8_soc_sdram
+R59
+!i10b 1
+!s100 3_^P[mbi=28TKhJI<TRAi0
+IXGTnX@4@]Z0NS=ageNoCE3
+R2
+R0
+Z67 w1476639865
+Z68 8D:/altera/ece385/final_project/lab8_soc/synthesis/submodules/lab8_soc_sdram.v
+Z69 FD:/altera/ece385/final_project/lab8_soc/synthesis/submodules/lab8_soc_sdram.v
+L0 158
+R5
+r1
+!s85 0
+31
+Z70 !s108 1478848139.053000
+Z71 !s107 D:/altera/ece385/final_project/lab8_soc/synthesis/submodules/lab8_soc_sdram.v|
+Z72 !s90 -reportprogress|300|-vlog01compat|-work|lab8_soc|+incdir+D:/altera/ece385/final_project/lab8_soc/synthesis/submodules|D:/altera/ece385/final_project/lab8_soc/synthesis/submodules/lab8_soc_sdram.v|
+!i113 1
+R6
+R7
+vlab8_soc_sdram_input_efifo_module
+R59
+!i10b 1
+!s100 _KLbjHOT8AFi44`ihWJ]22
+I60RUYoB@S;?R87dkGh5@m1
+R2
+R0
+R67
+R68
+R69
+R4
+R5
+r1
+!s85 0
+31
+R70
+R71
+R72
+!i113 1
+R6
+R7
+vlab8_soc_sdram_pll
+R1
+!i10b 1
+!s100 @IS@[bIP`[H?5`g6<_@gk0
+IH;8]mbe58fGb0Phomfz8J3
+R2
+R0
+Z73 w1476639878
+Z74 8D:/altera/ece385/final_project/lab8_soc/synthesis/submodules/lab8_soc_sdram_pll.v
+Z75 FD:/altera/ece385/final_project/lab8_soc/synthesis/submodules/lab8_soc_sdram_pll.v
+L0 218
+R5
+r1
+!s85 0
+31
+Z76 !s108 1478848138.924000
+Z77 !s107 D:/altera/ece385/final_project/lab8_soc/synthesis/submodules/lab8_soc_sdram_pll.v|
+Z78 !s90 -reportprogress|300|-vlog01compat|-work|lab8_soc|+incdir+D:/altera/ece385/final_project/lab8_soc/synthesis/submodules|D:/altera/ece385/final_project/lab8_soc/synthesis/submodules/lab8_soc_sdram_pll.v|
+!i113 1
+R6
+R7
+vlab8_soc_sdram_pll_altpll_lqa2
+R1
+!i10b 1
+!s100 @Tn5LRP0fVGiCW4IUMUbm1
+I;<lSWGlhA_NhKcF]b`Fl12
+R2
+R0
+R73
+R74
+R75
+L0 131
+R5
+r1
+!s85 0
+31
+R76
+R77
+R78
+!i113 1
+R6
+R7
+vlab8_soc_sdram_pll_dffpipe_l2c
+R1
+!i10b 1
+!s100 9@7_bjiX:ZARLgDe>=?4T3
+I@4E3Un0f9R<jRFzFooc?e0
+R2
+R0
+R73
+R74
+R75
+L0 38
+R5
+r1
+!s85 0
+31
+R76
+R77
+R78
+!i113 1
+R6
+R7
+vlab8_soc_sdram_pll_stdsync_sv6
+R1
+!i10b 1
+!s100 49^KngRU@4QC:k3bfZSz`2
+IA4R>?2:5dLA^YJTU;=8XW0
+R2
+R0
+R73
+R74
+R75
+L0 99
+R5
+r1
+!s85 0
+31
+R76
+R77
+R78
+!i113 1
+R6
+R7
+vlab8_soc_sysid_qsys_0
+R1
+!i10b 1
+!s100 >PUmBfUo6Y9]XgS0Zc`h>2
+I_UU<aLTnze?XK@e2<EDS^1
+R2
+R0
+R73
+8D:/altera/ece385/final_project/lab8_soc/synthesis/submodules/lab8_soc_sysid_qsys_0.v
+FD:/altera/ece385/final_project/lab8_soc/synthesis/submodules/lab8_soc_sysid_qsys_0.v
+R4
+R5
+r1
+!s85 0
+31
+!s108 1478848138.839000
+!s107 D:/altera/ece385/final_project/lab8_soc/synthesis/submodules/lab8_soc_sysid_qsys_0.v|
+!s90 -reportprogress|300|-vlog01compat|-work|lab8_soc|+incdir+D:/altera/ece385/final_project/lab8_soc/synthesis/submodules|D:/altera/ece385/final_project/lab8_soc/synthesis/submodules/lab8_soc_sysid_qsys_0.v|
+!i113 1
+R6
+R7
